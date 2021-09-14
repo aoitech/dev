@@ -139,7 +139,7 @@
 					<a href="#" class="entry-item">
 						<!-- entry-item-img -->
 						<div class="entry-item-img">
-							<img src="img/entry5.png" alt="">
+            <img src="<?php echo get_template_directory_uri() ?>/img/entry5.png" alt="">
 						</div><!-- /entry-item-img -->
 
 						<!-- entry-item-body -->

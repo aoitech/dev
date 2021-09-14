@@ -159,7 +159,7 @@
 					<a href="#" class="entry-item">
 						<!-- entry-item-img -->
 						<div class="entry-item-img">
-							<img src="img/entry6.png" alt="">
+            <img src="<?php echo get_template_directory_uri() ?>/img/entry6.png" alt="">
 						</div><!-- /entry-item-img -->
 
 						<!-- entry-item-body -->
@@ -179,7 +179,7 @@
 					<a href="#" class="entry-item">
 						<!-- entry-item-img -->
 						<div class="entry-item-img">
-							<img src="img/entry7.png" alt="">
+            <img src="<?php echo get_template_directory_uri() ?>/img/entry7.png" alt="">
 						</div><!-- /entry-item-img -->
 
 						<!-- entry-item-body -->
@@ -199,7 +199,7 @@
 					<a href="#" class="entry-item">
 						<!-- entry-item-img -->
 						<div class="entry-item-img">
-							<img src="img/entry8.png" alt="">
+            <img src="<?php echo get_template_directory_uri() ?>/img/entry8.png" alt="">
 						</div><!-- /entry-item-img -->
 
 						<!-- entry-item-body -->
@@ -219,7 +219,7 @@
 					<a href="#" class="entry-item">
 						<!-- entry-item-img -->
 						<div class="entry-item-img">
-							<img src="img/entry9.png" alt="">
+            <img src="<?php echo get_template_directory_uri() ?>/img/entry9.png" alt="">
 						</div><!-- /entry-item-img -->
 
 						<!-- entry-item-body -->
@@ -239,7 +239,7 @@
 					<a href="#" class="entry-item">
 						<!-- entry-item-img -->
 						<div class="entry-item-img">
-							<img src="img/entry10.png" alt="">
+            <img src="<?php echo get_template_directory_uri() ?>/img/entry10.png" alt="">
 						</div><!-- /entry-item-img -->
 
 						<!-- entry-item-body -->
@@ -275,7 +275,8 @@
 					<div class="widget-title">プロフィール</div>
 
 					<div class="wprofile">
-						<div class="wprofile-img"><img src="img/profile.png" alt=""></div>
+						<!-- <div class="wprofile-img"><img src="img/profile.png" alt=""></div> -->
+            <img src="<?php echo get_template_directory_uri() ?>/img/profile.png" alt="">
 						<div class="wprofile-content">
 							<p>
 								テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
